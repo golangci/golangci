@@ -30,4 +30,4 @@ GolangCI consists of sub-projects. The main ones are:
 # Issues, Features
 Create issue in [central issue tracker](https://github.com/golangci/golangci/issues).
 Also you can create issue in one of subprojects repo if you know which one you need.
-Contact email is `admin@golangci.com`
+Contact email is [admin@golangci.com](mailto:admin@golangci.com).
