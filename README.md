@@ -1,4 +1,8 @@
-# GolangCI
+# This project has moved
+
+New location: https://github.com/golangci/golangci-lint
+
+# Old Content:
 
 [GolangCI](https://golangci.com) is an automated golang codereview tool.
 
