@@ -1,3 +1,7 @@
+If you are looking for golangci-lint please go to  https://github.com/golangci/golangci-lint 
+
+THIS REPOSITORY IS ARCHIVED.
+
 # GolangCI
 
 [GolangCI](https://golangci.com) is an automated golang codereview tool.
